@@ -9,11 +9,11 @@ ___INSTALLINGS...___
 
 cd
 
-rm -rf BHOOT-CYBER-143
+rm -rf TXT-GREEN
 
-git clone https://github.com/BHOOT-CYBER-143/BHOOT-CYBER-143.git
+git clone https://github.com/BHOOT-CYBER-143/TXT-GREEN.git
 
-cd BHOOT-CYBER-143
+cd TXT-GREEN
 
 git pull
 
