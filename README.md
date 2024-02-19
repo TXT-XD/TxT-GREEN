@@ -11,13 +11,13 @@ cd
 
 rm -rf TXT-GREEN
 
-git clone https://github.com/BHOOT-CYBER-143/TXT-GREEN.git
+git clone https://github.com/TXT-XD/TXT-GREEN.git
 
 cd TXT-GREEN
 
 git pull
 
-python txt-green.py
+python TXT.py
 
 
 ## ADMIN FIND :
