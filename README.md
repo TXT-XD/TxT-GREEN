@@ -9,15 +9,15 @@ ___INSTALLINGS...___
 
 cd
 
-rm -rf TXT-GREEN
+rm -rf TxT-GREEN
 
-git clone https://github.com/TXT-XD/TXT-GREEN.git
+git clone https://github.com/TXT-XD/TxT-GREEN.git
 
-cd TXT-GREEN
+cd TxT-GREEN
 
 git pull
 
-python TXT.py
+python TxT.py
 
 
 ## ADMIN FIND :
