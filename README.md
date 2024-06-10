@@ -11,7 +11,7 @@ cd
 
 rm -rf TxT-GREEN
 
-git clone https://github.com/TXT-XD/TxT-GREEN.git
+git clone --depth=1 https://github.com/TXT-XD/TxT-GREEN.git
 
 cd TxT-GREEN
 
